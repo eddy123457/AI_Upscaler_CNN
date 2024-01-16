@@ -10,6 +10,6 @@
 
 
 
-final upscale images
+final upscale image comparison 
 
 ![image](https://github.com/eddy123457/AI_Upscaler_CNN/assets/23302893/30dd874e-5ce5-4cf2-aef1-b6489e4475dc)
